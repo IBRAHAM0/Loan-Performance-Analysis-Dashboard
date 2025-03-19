@@ -1,39 +1,32 @@
-Problem Statement: Analyzing Bank Loan Performance and Risk Assessment
+# Analyzing Bank Loan Performance and Risk Assessment
 
+## Overview
+Financial institutions depend on loans as a major source of revenue. However, effective loan performance management is essential for minimizing risk and maximizing returns. This project focuses on analyzing key metrics related to loan applications, funded amounts, repayments, and borrower financial health. By leveraging data-driven insights, we aim to enhance decision-making, optimize loan approval strategies, and mitigate risk.
 
-A) Brief Introduction
+## Objectives
+The primary objectives of this project include:
+- Evaluating loan portfolio performance to identify trends and patterns.
+- Assessing borrower risk based on key financial indicators.
+- Tracking key performance indicators (KPIs) such as total loan applications, funded amounts, repayments, interest rates, and debt-to-income ratios.
+- Classifying loans as "Good" or "Bad" based on repayment behavior and performance metrics.
+- Monitoring Month-to-Date (MTD) and Month-over-Month (MoM) changes in loan performance.
 
-		- Financial institutions rely on loans as a primary source of revenue, but effectively managing loan performance is critical to minimizing risk and maximizing returns. 
-		- This project focuses on analyzing key metrics related to loan applications, funded amounts, repayments, and borrower financial health. 
-		- By leveraging data-driven insights, we aim to enhance decision-making, optimize loan approval strategies, and mitigate risk.
+## Key Performance Areas
+### 1. Loan Portfolio Analysis
+- Tracking total loan applications, approvals, and disbursements.
+- Analyzing monthly and regional trends in lending activities.
+- Assessing the impact of loan terms and borrower employment length on approvals and repayments.
 
+### 2. Financial Performance Metrics
+- Evaluating total funded amounts and repayments.
+- Analyzing Month-to-Date (MTD) and Month-over-Month (MoM) variations in funding and collections.
+- Monitoring trends in average interest rates and debt-to-income ratios.
 
-B.) Objective
+### 3. Loan Risk Assessment
+- Identifying "Good" vs. "Bad" loans based on repayment behavior.
+- Categorizing loan performance by loan status.
+- Assessing the impact of home ownership on loan approvals and repayment rates.
 
-		- The goal of this analysis is to evaluate loan portfolio performance, identify trends, and assess borrower risk. 
-		- We will track key performance indicators (KPIs), including  total loan applications, funded amounts, repayments, interest rates, and debt-to-income ratios. 
-		- Additionally, we will categorize loans as "Good" or "Bad" based on  	performance metrics and monitor Month-to-Date (MTD) and Month-over-Month (MoM) changes.
+## Conclusion
+By analyzing these key metrics, we aim to optimize the lending process, enhance financial stability, and support informed decision-making for future loan disbursements.
 
-
-C) Key Performance Areas
-
-	1. Loan Portfolio Analysis:
-
-		- Total loan applications, approvals, and disbursements
-		- Monthly and regional trends in lending activities
-		- Loan term and borrower employment length impact
-
-	2. Financial Performance Metrics:
-
-		- Total funded amounts and repayments
-		- MTD and MoM variations in funding and collections
-		- Average interest rates and debt-to-income ratio trends
-		
-	3. Loan Risk Assessment:
-
-		- Identification of Good vs. Bad loans based on repayment behavior
-		- Breakdown of loan performance by loan status categories
-		- Home ownership impact on loan approval and repayment rates
-		
-
-By analyzing these KPIs, we aim to optimize the lending process, improve financial stability, and drive informed decision-making for future loan disbursements.
